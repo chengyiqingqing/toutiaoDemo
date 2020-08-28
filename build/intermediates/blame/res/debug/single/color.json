@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]

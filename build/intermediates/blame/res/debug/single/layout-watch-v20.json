@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

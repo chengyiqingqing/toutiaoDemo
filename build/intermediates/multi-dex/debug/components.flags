@@ -1,0 +1,42 @@
+-injars /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
+-outjars /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/shaowenwen/Library/Android/sdk/build-tools/28.0.3/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/multi-dex/debug/components.flags
+
+
+# view AndroidManifest.xml #generated:41
+-keep class com.union_test.toutiao.DemoApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

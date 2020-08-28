@@ -1,0 +1,520 @@
+[
+    {
+        "outputFile": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 107,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 99,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 99,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 100,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 100,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 85,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 85,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 104,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 104,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 117,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 117,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 86,
+                    "endOffset": 805
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 86,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 810,
+                    "endColumn": 81,
+                    "endOffset": 887
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 81,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 892,
+                    "endColumn": 79,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 79,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 106,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 106,
+                        "endOffset": 1074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endColumn": 102,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1079,
+                        "endColumn": 102,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 96,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1182,
+                        "endColumn": 96,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 105,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 105,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endColumn": 98,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1385,
+                        "endColumn": 98,
+                        "endOffset": 1479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endColumn": 103,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1484,
+                        "endColumn": 103,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 162,
+                    "endOffset": 1746
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endColumn": 162,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1751,
+                    "endColumn": 98,
+                    "endOffset": 1845
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 98,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1850,
+                    "endColumn": 208,
+                    "endOffset": 2054
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/play-services-basement-16.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 247,
+                        "endColumn": 208,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2059,
+                    "endColumn": 73,
+                    "endOffset": 2128
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/play-services-ads-17.2.0/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 199,
+                        "endColumn": 69,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2133,
+                    "endColumn": 119,
+                    "endOffset": 2248
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/play-services-ads-17.2.0/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 269,
+                        "endColumn": 115,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2253,
+                    "endColumn": 68,
+                    "endOffset": 2317
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/play-services-ads-17.2.0/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 385,
+                        "endColumn": 64,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2322,
+                    "endColumn": 67,
+                    "endOffset": 2385
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/play-services-ads-17.2.0/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 450,
+                        "endColumn": 63,
+                        "endOffset": 513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2390,
+                    "endColumn": 83,
+                    "endOffset": 2469
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/play-services-ads-17.2.0/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 514,
+                        "endColumn": 79,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2474,
+                    "endColumn": 118,
+                    "endOffset": 2588
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/play-services-ads-17.2.0/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 594,
+                        "endColumn": 114,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2593,
+                    "endColumn": 72,
+                    "endOffset": 2661
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/play-services-ads-17.2.0/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 709,
+                        "endColumn": 68,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2666,
+                    "endColumn": 79,
+                    "endOffset": 2741
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1850,
+                        "endColumn": 79,
+                        "endOffset": 1925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2746,
+                    "endColumn": 100,
+                    "endOffset": 2842
+                },
+                "from": {
+                    "file": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.1/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

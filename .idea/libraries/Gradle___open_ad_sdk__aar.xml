@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: :open_ad_sdk:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/open_ad_sdk/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/open_ad_sdk/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/open_ad_sdk/jars/libs/ttmd5-0.0.2-alpha.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/open_ad_sdk/jars/libs/adhost.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

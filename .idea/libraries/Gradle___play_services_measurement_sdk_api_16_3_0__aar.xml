@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :play-services-measurement-sdk-api-16.3.0:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/play-services-measurement-sdk-api-16.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/play-services-measurement-sdk-api-16.3.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
