@@ -10,7 +10,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="912b36f0-4178-4a60-827d-9870db067628" name="Default Changelist" comment="" />
+    <list default="true" id="912b36f0-4178-4a60-827d-9870db067628" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +31,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/src/main/java/com/union_test/toutiao/activity/DrawNativeExpressVideoActivity.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="292">
-                    <caret line="192" column="70" selection-start-line="192" selection-start-column="70" selection-end-line="192" selection-end-column="70" />
+                  <state relative-caret-position="622">
+                    <caret line="214" selection-start-line="214" selection-end-line="214" />
                     <folding>
                       <element signature="class#4941:6165" />
                       <element signature="method#onVideoLoad#0;class#4941:6165" />
@@ -83,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/union_test/toutiao/activity/DrawNativeVideoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="306" column="17" lean-forward="true" selection-start-line="306" selection-start-column="17" selection-end-line="306" selection-end-column="17" />
+            <state relative-caret-position="2356">
+              <caret line="306" column="17" selection-start-line="306" selection-start-column="17" selection-end-line="306" selection-end-column="17" />
               <folding>
                 <element signature="class#4700:6429" />
                 <element signature="class#6603:7255" />
@@ -144,7 +147,7 @@
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#854#3581#0" />
                 <element signature="e#1267#2422#0" />
@@ -181,6 +184,9 @@
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -195,6 +201,7 @@
     <option name="width" value="1680" />
     <option name="height" value="947" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -219,6 +226,7 @@
   <component name="PropertiesComponent">
     <property name="DEBUGGABLE_DEVICE" value="nubia-nx907j-a428cb4a" />
     <property name="DEBUGGABLE_PROCESS" value="com.union_test.toutiao" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -313,8 +321,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="1" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14224665" />
@@ -329,7 +336,7 @@
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.17309941" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.52163744" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.26081872" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.16725147" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50061053" side_tool="true" weight="0.50292397" />
       <window_info anchor="bottom" id="Build" order="6" sideWeight="0.4993895" weight="0.10409357" />
       <window_info anchor="bottom" id="Android Profiler" order="7" />
@@ -542,7 +549,7 @@
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#854#3581#0" />
             <element signature="e#1267#2422#0" />
@@ -563,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/union_test/toutiao/activity/DrawNativeVideoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="306" column="17" lean-forward="true" selection-start-line="306" selection-start-column="17" selection-end-line="306" selection-end-column="17" />
+        <state relative-caret-position="2356">
+          <caret line="306" column="17" selection-start-line="306" selection-start-column="17" selection-end-line="306" selection-end-column="17" />
           <folding>
             <element signature="class#4700:6429" />
             <element signature="class#6603:7255" />
@@ -576,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/union_test/toutiao/activity/DrawNativeExpressVideoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="192" column="70" selection-start-line="192" selection-start-column="70" selection-end-line="192" selection-end-column="70" />
+        <state relative-caret-position="622">
+          <caret line="214" selection-start-line="214" selection-end-line="214" />
           <folding>
             <element signature="class#4941:6165" />
             <element signature="method#onVideoLoad#0;class#4941:6165" />

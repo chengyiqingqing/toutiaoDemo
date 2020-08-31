@@ -40,12 +40,12 @@
         "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/res/layout/dlg_dislike_custom.xml"
     },
     {
-        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout/appdownloader_notification_layout.xml",
-        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/open_ad_sdk/res/layout/appdownloader_notification_layout.xml"
-    },
-    {
         "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout/tt_dislike_dialog_layout2.xml",
         "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/open_ad_sdk/res/layout/tt_dislike_dialog_layout2.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout/appdownloader_notification_layout.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/open_ad_sdk/res/layout/appdownloader_notification_layout.xml"
     },
     {
         "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout/tt_playable_loading_layout.xml",
@@ -60,12 +60,12 @@
         "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/layout/abc_tooltip.xml"
     },
     {
-        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout/tt_backup_feed_horizontal.xml",
-        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/open_ad_sdk/res/layout/tt_backup_feed_horizontal.xml"
-    },
-    {
         "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout/locker_setting_item.xml",
         "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/res/layout/locker_setting_item.xml"
+    },
+    {
+        "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout/tt_backup_feed_horizontal.xml",
+        "source": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/exploded-aar/open_ad_sdk/res/layout/tt_backup_feed_horizontal.xml"
     },
     {
         "merged": "/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/res/merged/debug/layout/touch_pull_down_view.xml",
