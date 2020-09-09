@@ -218,6 +218,7 @@
         <activity android:name=".activity.AdapterActivity" />
         <activity android:name="com.google.ads.mediation.sample.activity.AdmobRewardVideoActivity" />
         <activity android:name=".activity.AllExpressAdActivity" />
+        <activity android:name=".activity.test.DrawFullScreenVideoActivity" />
 
 
         <!-- Sample AdMob App ID: ca-app-pub-3000639232404350~2520092023 -->

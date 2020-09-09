@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.bytedance.sdk.openadsdk.downloadnew.core.ExitInstallListener;
+import com.union_test.toutiao.activity.test.DrawFullScreenVideoActivity;
 import com.union_test.toutiao.utils.UIUtils;
 import com.union_test.toutiao.R;
 import com.union_test.toutiao.config.TTAdManagerHolder;
@@ -37,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         bindButton(R.id.btn_main_banner_native, NativeBannerActivity.class);
         bindButton(R.id.btn_main_interstitial_native, NativeInteractionActivity.class);
         bindButton(R.id.btn_main_draw_native, DrawNativeVideoActivity.class);
+        bindButton(R.id.btn_main_draw_test, DrawFullScreenVideoActivity.class);
         bindButton(R.id.btn_locker, com.locker.activity.LockerActivity.class);
         bindButton(R.id.btn_test_tool, AllTestToolActivity.class);
         bindButton(R.id.btn_express_ad, AllExpressAdActivity.class);

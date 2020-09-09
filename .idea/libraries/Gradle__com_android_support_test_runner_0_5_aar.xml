@@ -5,6 +5,8 @@
       <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/res" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test/runner/0.5/d13156b1f4d8dc7013cd8b3b1284b22bd3b44d23/runner-0.5-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

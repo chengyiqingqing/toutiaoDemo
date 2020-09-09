@@ -361,37 +361,37 @@ ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2
 	android:name
 		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:166:19-94
 activity#com.locker.activity.LockerActivity
-ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:178:9-179:73
+ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 	android:screenOrientation
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:178:9-179:73
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 	android:hardwareAccelerated
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:178:9-179:73
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 	android:launchMode
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:178:9-179:73
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 	android:exported
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:178:9-179:73
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 	android:windowSoftInputMode
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:178:9-179:73
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 	android:configChanges
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:178:9-179:73
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 	android:theme
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:178:9-179:73
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 	android:name
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:13-69
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:179:1-73
 activity#com.union_test.toutiao.activity.PlayableToolActivity
-ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:183:9-184:15
+ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:184:9-15
 	android:screenOrientation
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:183:9-184:15
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:184:9-15
 	android:launchMode
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:183:9-184:15
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:184:9-15
 	android:configChanges
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:183:9-184:15
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:184:9-15
+	android:name
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:184:9-15
+activity#com.mopub.actiivity.MopubRewardedVideoActivity
+ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:183:9-185:83
 	android:name
 		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:184:13-58
-activity#com.mopub.actiivity.MopubRewardedVideoActivity
-ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:185:5-83
-	android:name
-		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:185:5-83
 activity#com.mopub.actiivity.MopubFullVideoActivity
 ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:186:1-79
 	android:name
@@ -472,6 +472,10 @@ activity#com.union_test.toutiao.activity.AllExpressAdActivity
 ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:188:9-193:67
 	android:name
 		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:189:13-58
+activity#com.union_test.toutiao.activity.test.DrawFullScreenVideoActivity
+ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:193:1-79
+	android:name
+		ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:193:1-79
 meta-data#com.google.android.gms.ads.APPLICATION_ID
 ADDED from /Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/src/main/AndroidManifest.xml:196:1-69
 	android:value

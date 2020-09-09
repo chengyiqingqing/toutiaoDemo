@@ -436,6 +436,18 @@ public class DrawNativeVideoActivity extends AppCompatActivity {
     private void initAdViewAndAction(TTDrawFeedAd ad, FrameLayout container) {
         View actionView = this.getLayoutInflater().inflate(R.layout.native_draw_action_item,null,false);
         TextView title = actionView.findViewById(R.id.tv_title);
+        // 广告logo
+        ad.getAdLogo();
+        // 内容icon元素
+        ad.getIcon().getImageUrl();
+        // 交互模式：点击模式
+        ad.getInteractionType();
+        // 视频View
+        ad.getAdView();
+        //
+        ad.getImageList().get(0);
+
+
         title.setText(ad.getTitle());
 
         TextView desc = actionView.findViewById(R.id.tv_desc);

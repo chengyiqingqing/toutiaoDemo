@@ -1,4 +1,4 @@
-#Mon Aug 31 09:49:29 CST 2020
+#Wed Sep 09 14:31:13 CST 2020
 base.0=/Users/shaowenwen/workFile/workRecord/4.21.1/穿山甲Android_sdk_3.2.0.4/demo/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.1=classes2.dex
 renamed.0=classes.dex

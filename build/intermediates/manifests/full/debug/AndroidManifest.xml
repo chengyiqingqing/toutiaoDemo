@@ -208,6 +208,7 @@
         <activity android:name="com.union_test.toutiao.activity.AdapterActivity" />
         <activity android:name="com.google.ads.mediation.sample.activity.AdmobRewardVideoActivity" />
         <activity android:name="com.union_test.toutiao.activity.AllExpressAdActivity" />
+        <activity android:name="com.union_test.toutiao.activity.test.DrawFullScreenVideoActivity" />
 
         <!-- Sample AdMob App ID: ca-app-pub-3000639232404350~2520092023 -->
         <!-- <meta-data -->
